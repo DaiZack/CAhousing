@@ -1,0 +1,218 @@
+Sydney
+Melbourne
+Brisbane
+Perth
+Adelaide
+Newcastle
+Canberra
+Gold Coast
+Cranbourne
+Wollongong
+Geelong
+Cairns
+Townsville
+Albury
+Darwin
+Hobart
+Caloundra
+Nowra
+Toowoomba
+Ballarat
+Bendigo
+Mackay
+Mandurah
+Launceston
+Rockhampton
+Coffs Harbour
+Wagga Wagga
+Bundaberg
+Port Macquarie
+Mildura
+Taree
+Orange
+Tamworth
+Kalgoorlie
+Shepparton
+Mount Isa
+Tweed Heads
+Queanbeyan
+Melton
+Dubbo
+Caboolture
+Lismore
+Gladstone
+Warrnambool
+Sunbury
+Alice Springs
+Geraldton
+Bunbury
+Albany
+Hervey Bay
+Mount Gambier
+Armidale
+Whyalla
+Sale
+Katoomba
+Goulburn
+Maryborough
+Kwinana
+Burnie
+Echuca
+Devonport
+Roebourne
+Maitland
+Traralgon
+Murray Bridge
+Tuncurry
+Broken Hill
+Karratha
+Gawler
+Griffith
+Kingston
+Port Hedland
+Ballina
+Wangaratta
+Port Augusta
+Richmond
+Singleton
+Bongaree
+Port Lincoln
+Broome
+Horsham
+Port Pirie
+Warwick
+Kempsey
+Portland
+Gympie
+Muswellbrook
+Parkes
+Lithgow
+Bairnsdale
+Bowen
+Yeppoon
+Batemans Bay
+Kiama
+Busselton
+Innisfail
+Katherine
+Moranbah
+Grafton
+Dalby
+Charters Towers
+Emerald
+Swan Hill
+Ulladulla
+Colac
+Ayr
+Hamilton
+Kingaroy
+Inverell
+Moree
+Deniliquin
+Esperance
+Victor Harbor
+Young
+Carnarvon
+Leeton
+Gunnedah
+Narrabri
+Maryborough
+Stawell
+Atherton
+Cowra
+Byron Bay
+Tumut
+Cooma
+Merimbula
+Biloela
+Ingham
+Bathurst
+Ararat
+Wonthaggi
+Northam
+Kununurra
+Roma
+Mudgee
+Forbes
+Berri
+Cobram
+Scone
+Goondiwindi
+Manjimup
+Narrogin
+Smithton
+Proserpine
+Katanning
+Seymour
+Clare
+Central Coast
+Port Douglas
+Longreach
+Weipa
+Wallaroo
+Tom Price
+Bordertown
+Bourke
+Scottsdale
+Queenstown
+Charleville
+Yamba
+Tumby Bay
+Mount Barker
+Wagin
+Kalbarri
+Penola
+Ouyen
+Cloncurry
+Oatlands
+Ravensthorpe
+Barcaldine
+Streaky Bay
+Wyndham
+Meekatharra
+Quilpie
+Hughenden
+Morawa
+Kingston South East
+Three Springs
+Newman
+McMinns Lagoon
+Merredin
+Peterborough
+Ceduna
+Meningie
+Gingin
+Port Denison
+Halls Creek
+Winton
+Exmouth
+Norseman
+Yulara
+Georgetown
+Pannawonica
+Pine Creek
+Kimba
+Boulia
+Onslow
+Cowell
+Andamooka
+Eidsvold
+Woomera
+Wilcannia
+Mount Magnet
+Laverton
+Richmond
+Birdsville
+Ivanhoe
+Theodore
+Adelaide River
+Leonora
+Thargomindah
+Burketown
+Southern Cross
+Camooweal
+Bicheno
+Karumba
+Windorah
+Bedourie
+Kingoonya
