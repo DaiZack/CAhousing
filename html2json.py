@@ -28,3 +28,7 @@ for s0 in sources:
 
 with open('news.json', 'w') as t:
     t.write(json.dumps(results))
+    
+import pandas as pd
+df = pd.read_json('news.json')
+df.to_excel('news.xlsx',index=0)
